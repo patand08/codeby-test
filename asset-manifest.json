@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/codeby-test/static/css/main.0416712b.css",
+    "main.js": "/codeby-test/static/js/main.f28c119c.js",
+    "index.html": "/codeby-test/index.html",
+    "main.0416712b.css.map": "/codeby-test/static/css/main.0416712b.css.map",
+    "main.f28c119c.js.map": "/codeby-test/static/js/main.f28c119c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0416712b.css",
+    "static/js/main.f28c119c.js"
+  ]
+}

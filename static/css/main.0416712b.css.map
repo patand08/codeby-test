@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.0416712b.css","mappings":"2EAEA,UAEE,8BACF","sources":["index.css"],"sourcesContent":["@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap'); \r\n\r\nbody,\r\nhtml {\r\n  font-family: 'Poppins', sans-serif;\r\n}"],"names":[],"sourceRoot":""}
