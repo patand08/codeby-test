@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "CodeBy Test",
+  "name": "CodeBy Test - React, Material UI and Zustand - Made by Patrick Andrade",
   "icons": [
     {
       "src": "favicon.ico",
